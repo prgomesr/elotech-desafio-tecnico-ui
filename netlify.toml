@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/api"
+  to = "https://api.elotech.ozeano.com.br"
+  force = true
